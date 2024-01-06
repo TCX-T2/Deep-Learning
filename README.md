@@ -25,7 +25,12 @@ This notebook utilizes a pre-trained deep learning model to detect and predict t
 
 ## Use this picture to test the model
 
+Healthy Image lungs
 ![testImage](https://github.com/TCX-T2/Deep-Learning/assets/94483687/1d3c138f-dc72-4164-9588-9fdba0f3c695)
+
+Sick Image lungs
+![TestImageSick](https://github.com/TCX-T2/Deep-Learning/assets/94483687/a1429d08-71cf-404b-84e2-c76d4dc42f3c)
+
 
 ## Note
 Make sure to upload the model in you drive data path (`'/content/drive/MyDrive/ModelData'`) and create a file save path (create the /MyDrive/Rapports_Scan) (`'/content/drive/MyDrive/Rapports_Scan/'`) according to your file structure.
