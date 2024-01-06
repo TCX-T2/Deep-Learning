@@ -1,5 +1,6 @@
 # Deep-Learning
 
+
 # Tumor Detection and Prediction Notebook
 
 ## Overview
@@ -28,4 +29,3 @@ Make sure to adjust the model upload the model in you drive data path (`'/conten
 ## Author
 TCX Team 2
 
-.
