@@ -19,6 +19,10 @@ This notebook utilizes a pre-trained deep learning model to detect and predict t
 - ReportLab
 - Google Colab (for file uploading)
 
+## Dataset Link: Chest CT Scan Images (with modifications in data control cells)
+
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+
 ## File Structure that you must dowload or create
 - `ModelData/`: Directory containing the pre-trained MobileNetV2 model.
 - `Rapports_Scan/`: Directory where prediction reports are saved.
