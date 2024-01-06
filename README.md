@@ -25,10 +25,12 @@ This notebook utilizes a pre-trained deep learning model to detect and predict t
 
 ## Use this picture to test the model
 
-Healthy Image lungs
+# Healthy Image lungs
+
 ![testImage](https://github.com/TCX-T2/Deep-Learning/assets/94483687/1d3c138f-dc72-4164-9588-9fdba0f3c695)
 
-Sick Image lungs
+# Sick Image lungs
+
 ![TestImageSick](https://github.com/TCX-T2/Deep-Learning/assets/94483687/a1429d08-71cf-404b-84e2-c76d4dc42f3c)
 
 
