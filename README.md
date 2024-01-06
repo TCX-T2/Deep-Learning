@@ -24,7 +24,7 @@ This notebook utilizes a pre-trained deep learning model to detect and predict t
 - `Rapports_Scan/`: Directory where prediction reports are saved.
 
 ## Note
-Make sure to adjust the model upload the model in you drive data path (`'/content/drive/MyDrive/ModelData'`) and file save path (`'/content/drive/MyDrive/Rapports_Scan/'`) according to your file structure.
+Make sure to upload the model in you drive data path (`'/content/drive/MyDrive/ModelData'`) and create a file save path (create the /MyDrive/Rapports_Scan) (`'/content/drive/MyDrive/Rapports_Scan/'`) according to your file structure.
 
 ## Author
 TCX Team 2
