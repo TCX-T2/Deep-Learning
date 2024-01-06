@@ -24,7 +24,7 @@ This notebook utilizes a pre-trained deep learning model to detect and predict t
 https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 ## File Structure that you must dowload or create
-- `ModelData/`: Dpwnload directory containing the pre-trained model : https://drive.google.com/drive/folders/15v_P7G_rWDklp9y1QdO0CmsXqPqM19lR?usp=sharing
+- `ModelData/`: Download directory containing the pre-trained model : https://drive.google.com/drive/folders/15v_P7G_rWDklp9y1QdO0CmsXqPqM19lR?usp=sharing
 - `Rapports_Scan/`: Create directory where prediction reports are saved.
 
 ## Use this picture to test the model
