@@ -27,7 +27,7 @@ https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 - `ModelData/`: Download directory containing the pre-trained model : https://drive.google.com/drive/folders/15v_P7G_rWDklp9y1QdO0CmsXqPqM19lR?usp=sharing
 - `Rapports_Scan/`: Create directory where prediction reports are saved.
 
-## Use this picture to test the model
+## Use this pictures to test the model
 
 # Healthy Image lungs
 
